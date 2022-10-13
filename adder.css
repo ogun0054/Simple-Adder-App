@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+    border: 2px solid green;
+    width: 200px;
+    padding: 10px;
+    font-family: cursive;
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+    border: 1px dotted red;
+    margin-top: 5px;
+    background-color: green;
+    color: white;
+}
+
+label{
+    width: 40px;
+    display: inline-block;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+input{
+    text-align: right;
+    margin: 5px;
+}
+
+button{
+    width: 40px;
+    background-color: cyan;
+}
+
+span{
+    text-align: right;
+    display: inline-block;
+    width: 70px;
+    margin-right: 10px;
+}
